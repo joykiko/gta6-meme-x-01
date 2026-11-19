@@ -46,7 +46,7 @@ With Node.js 22.18 or later, run from the repository root:
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-On success, `out/POST.json` is a byte-for-byte copy of the root `POST.json` and the program prints nothing.
+The program first parses `POST.json` and requires a JSON object with a non-empty string `url`; invalid input exits non-zero with an error. On success, `out/POST.json` is a byte-for-byte copy of the root `POST.json` and the program prints nothing.
 
 ## Rebuild the image
 
