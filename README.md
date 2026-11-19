@@ -1,8 +1,8 @@
 # GTA VI: 99% loaded
 
-![make.fun bounty status](https://make.fun/badge/gta6-meme-x-01.svg)
-![Judge rank](https://make.fun/badge/gta6-meme-x-01/joykiko/gta6-meme-x-01/rank.svg)
-![Reward](https://make.fun/badge/gta6-meme-x-01/joykiko/gta6-meme-x-01/reward.svg)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/joykiko/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/joykiko/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 The final meme is variant C, "The HUD Is Ready", a GTA gameplay HUD frame over a Leonida beach at sunset: a circular minimap bottom-left, health/armor bars, five wanted stars reading "WANTED: 13 YEARS", a money counter reading "$ 00000013 YEARS WAITED", the make.fun ghost large at center on its magenta disc beside an "M" objective marker labelled make.fun, and the caption "The city is ready. The HUD is ready. GTA VI is still at 99%." The human picked variant C over the v1 loading screen and posted it publicly from @Fakhryamrullah. POST.json now carries the real post URL: https://x.com/fakhryamrullah/status/2123487831620567188
 
